@@ -1,12 +1,12 @@
 # Codes
-Data Structures and Algorithms
-Arrays
-Linked List
-Binary Search
-Heaps
-Stacks and Queues
-Strings
-Binary Tree
-Binary Search Tree
-Graph
+Data Structures and Algorithms <br />
+Arrays <br />
+Linked List <br />
+Binary Search <br />
+Heaps <br />
+Stacks and Queues <br />
+Strings <br />
+Binary Tree <br />
+Binary Search Tree <br />
+Graph <br />
 Dynamic Programming
